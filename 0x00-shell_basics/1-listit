@@ -1,6 +1,2 @@
 #!/bin/bash
 echo "Applications"
-echo "documents"
-echo "Dropbox Movies Pictures"
-echo "Desktop Downloads"
-echo "Library Music Public"
